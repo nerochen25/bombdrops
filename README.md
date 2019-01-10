@@ -16,7 +16,7 @@ This app is inspired by a mobile app, Lumosity, (https://www.lumosity.com/). I a
 
 ### Wireframes
 
-![Wireframe](./screenshots/wireframe.png)
+![Wireframe](/Users/nerochan25/Desktop/bombdrops_project/Screen Shot 2019-01-09 at 11.13.06 PM.png)
 
 The app will consist of a single page with a play button, an input box for username, an input box for solution, a solution submit button, and the links to the Github repository and developer LinkedIn.
 
